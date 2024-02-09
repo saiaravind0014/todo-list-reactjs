@@ -1,0 +1,22 @@
+.foot{
+    width: 100%;
+    padding: 2rem 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+.linkedin{
+    font-size: 20px;
+}
+.copyright{
+    display: flex;
+    margin-top: 1.5rem;
+    font-size: 1rem;
+    text-align: center;
+}
+.logo{
+    font-weight: 600;
+    font-size: 30px;
+}
